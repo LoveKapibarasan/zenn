@@ -1,0 +1,25 @@
+---
+title: "毎日電子日記を始めてみませんか？"
+emoji: "🚀"
+type: "tech"
+topics: ["日記", "アプリ", "個人開発"]
+published: true
+---
+![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-app-jp.png)
+
+![](https://assets.st-note.com/img/1781068032-Gs9pvk1uO2a3gM8T0R6lEwPd.png?width=1200)
+
+「**What-are-you-do-ing**」は、ただの日記アプリではありません。まるでコードを管理するように、大切な思い出をグループで共有できる「日記版Git」です。
+
+従来のSNSのような「映え」や「反応」は不要。カップルや友人、チームで一つの場所へ記憶を積み重ねていく、静かで濃密な体験を提供します。もし書き間違えても大丈夫。Gitのように履歴をさかのぼり、いつでも過去の状態へ戻せます。
+
+- **Markdown対応:** ノート感覚で自由に記述可能
+- **カレンダー表示:** 思い出の軌跡を直感的に振り返る
+- **履歴管理:** 編集履歴をコミットして安心保存
+
+誰かのための投稿ではなく、私たちのための記録を。大切な人との時間を、デジタルな一冊の本に刻んでいきませんか。
+
+次は、この日記を誰と一緒に使ってみたいか、具体的なシチュエーションを考えてみませんか？
+
+アプリはこちらからアクセスできます！
+[https://whatareyoudo.ing/welcome](https://whatareyoudo.ing/welcome)

@@ -1,0 +1,9 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zenn articles of LoveKapibarasan (https://zenn.dev/lovekapibarasan)",
+  "dependencies": {
+    "zenn-cli": "^0.4.5"
+  }
+}
