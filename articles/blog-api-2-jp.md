@@ -5,7 +5,7 @@ type: "tech"
 topics: ["ハック", "api", "自動化"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/blog-api/blog-api-1-jp.png)
+![](/images/r2/app/blog-api/blog-api-1-jp.png)
 
 前回の記事では、Go言語による Note & Qiita への同時投稿の基礎をお伝えしました。しかし、最後まで残った大きな壁――それが **「Note で Gist のテーブル（表）が表示されない問題」** でした。
 

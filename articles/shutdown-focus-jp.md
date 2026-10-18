@@ -5,7 +5,7 @@ type: "tech"
 topics: ["個人開発", "python", "windows", "セキュリティ"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/shutdown-focus/shutdown-focus-jp.png)
+![](/images/r2/app/shutdown-focus/shutdown-focus-jp.png)
 
 ## ！！重要！！
 

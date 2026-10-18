@@ -5,7 +5,7 @@ type: "tech"
 topics: ["個人開発", "アプリ", "java"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/agora/agora-app-jp.png)
+![](/images/r2/app/agora/agora-app-jp.png)
 
 ## ！！重要！！
 

@@ -5,7 +5,7 @@ type: "tech"
 topics: ["typescript", "rustify", "個人開発", "将棋"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/rustify/rustify-2-jp.png)
+![](/images/r2/app/rustify/rustify-2-jp.png)
 
 ## 【悲報】現在のアクセス数：5人
 

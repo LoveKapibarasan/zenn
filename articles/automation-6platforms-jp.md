@@ -5,7 +5,7 @@ type: "tech"
 topics: ["自動化", "gitops", "api", "bluesky", "はてなブログ"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/blog-api/automation-6platforms-en.png)
+![](/images/r2/app/blog-api/automation-6platforms-en.png)
 
 ## きっかけ
 

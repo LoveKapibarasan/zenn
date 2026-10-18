@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-life-log-jp.png)
+![](/images/r2/app/whatcha/whatcha-life-log-jp.png)
 
 「また三日坊主で終わってしまった…」と自己嫌悪に陥る必要はありません。日記、家計簿、食事管理と、記録の場所が分散していれば、三日坊主になるのはむしろ自然なことなのです。
 

@@ -5,7 +5,7 @@ type: "tech"
 topics: ["個人開発", "todo", "アプリ", "ruby"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/toddyi/toddyi-launch-jp.png)
+![](/images/r2/app/toddyi/toddyi-launch-jp.png)
 
 ![](https://assets.st-note.com/img/1781415173-Ru8zMFi2ltfW3ILUTYqXBopZ.png?width=1200)
 

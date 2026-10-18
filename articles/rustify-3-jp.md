@@ -5,7 +5,7 @@ type: "tech"
 topics: ["rustify", "将棋", "個人開発"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/rustify/rustify-3-jp.png)
+![](/images/r2/app/rustify/rustify-3-jp.png)
 
 みなさん、こんにちは！Rustifyの開発チーム(1人)です。現在開発中のため、まだ少しおてんば（バグ）なところもありますが、待望の新機能をリリースしました！
 

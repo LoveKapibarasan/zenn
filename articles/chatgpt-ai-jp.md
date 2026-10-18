@@ -5,7 +5,7 @@ type: "tech"
 topics: ["chatgpt", "作品", "説明", "読者", "テーマ"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/tech/ai-ml/chatgpt-ai-jp.png)
+![](/images/r2/tech/ai-ml/chatgpt-ai-jp.png)
 
 ## 開発中のアプリと、ChatGPTの一言
 

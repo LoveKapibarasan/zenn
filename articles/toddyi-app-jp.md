@@ -5,7 +5,7 @@ type: "tech"
 topics: ["todo", "個人開発", "ruby", "大学生"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/toddyi/toddyi-app-jp.png)
+![](/images/r2/app/toddyi/toddyi-app-jp.png)
 
 - Toddyiはhttps://toddyi.loveにドメインを移行しました。
 

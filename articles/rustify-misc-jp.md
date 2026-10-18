@@ -5,7 +5,7 @@ type: "tech"
 topics: ["個人開発"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/rustify/rustify-misc-jp.png)
+![](/images/r2/app/rustify/rustify-misc-jp.png)
 
 最近、Qiita経由で以下のような大変貴重なご要望をいただきました。
 

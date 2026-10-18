@@ -5,7 +5,7 @@ type: "tech"
 topics: ["アプリ", "サービス", "開発", "機能", "whatcha"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/naze-urenai-jp.png)
+![](/images/r2/app/whatcha/naze-urenai-jp.png)
 
 ## 
 

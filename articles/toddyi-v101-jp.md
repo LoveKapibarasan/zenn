@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/toddyi/toddyi-v101-jp.png)
+![](/images/r2/app/toddyi/toddyi-v101-jp.png)
 
 生産性・目標管理プラットフォーム『Toddyi（トディ）』のバージョン1.0.1をリリースいたしました。
 

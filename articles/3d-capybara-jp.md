@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/tech/hardware/3d-capybara-jp.png)
+![](/images/r2/tech/hardware/3d-capybara-jp.png)
 
 ![](https://assets.st-note.com/img/1782029970-zPdiTDEal0LB13v84V5rbRy7.jpg?width=1200)
 

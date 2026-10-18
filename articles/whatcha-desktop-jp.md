@@ -5,7 +5,7 @@ type: "tech"
 topics: ["日記", "デスクトップ", "flutter", "i18n", "microsoftstore"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-desktop-jp.png)
+![](/images/r2/app/whatcha/whatcha-desktop-jp.png)
 
 ## Whatcha は、いつでも、どの画面からでも書ける日記に。
 

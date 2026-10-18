@@ -5,7 +5,7 @@ type: "tech"
 topics: ["将棋", "個人開発", "アプリ"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/shogi-dojo/shogi-dojo-jp.png)
+![](/images/r2/app/shogi-dojo/shogi-dojo-jp.png)
 
 ## ブラウザ一つで全てが完結。「将棋道場オンライン」で対局から研究までを体験しよう
 

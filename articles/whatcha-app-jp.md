@@ -5,7 +5,7 @@ type: "tech"
 topics: ["日記", "アプリ", "個人開発"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-app-jp.png)
+![](/images/r2/app/whatcha/whatcha-app-jp.png)
 
 ![](https://assets.st-note.com/img/1781068032-Gs9pvk1uO2a3gM8T0R6lEwPd.png?width=1200)
 

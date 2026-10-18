@@ -5,7 +5,7 @@ type: "tech"
 topics: ["api", "自動化"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/blog-api/blog-api-1-jp.png)
+![](/images/r2/app/blog-api/blog-api-1-jp.png)
 
 この記事はプログラムにより作成されました。
 

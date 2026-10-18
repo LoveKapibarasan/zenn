@@ -5,7 +5,7 @@ type: "tech"
 topics: ["日記", "写真", "時間", "sns", "投稿"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-2-0-en-short.png)
+![](/images/r2/app/whatcha/whatcha-2-0-en-short.png)
 
 ## 今週中に　新Version 2.0をリリースします！
 

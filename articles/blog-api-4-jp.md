@@ -5,7 +5,7 @@ type: "tech"
 topics: ["api", "自動化", "go", "個人開発"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/blog-api/blog-api-4-jp.png)
+![](/images/r2/app/blog-api/blog-api-4-jp.png)
 
 前回（第3弾）では、公式APIが突然死んだことをきっかけに、HTMLスクレイピングへ転換した話を書いた。投稿の自動化は完成した。だが、記事を書いて投稿するだけでは片手落ちだと気づいた。
 

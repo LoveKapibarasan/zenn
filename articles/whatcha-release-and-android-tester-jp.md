@@ -5,7 +5,7 @@ type: "tech"
 topics: ["whatcha", "android", "テスター募集", "個人開発", "googleplay"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-release-and-android-tester-jp.png)
+![](/images/r2/app/whatcha/whatcha-release-and-android-tester-jp.png)
 
 ## 概要
 

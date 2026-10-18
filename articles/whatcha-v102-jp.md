@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/whatcha/whatcha-v102-jp.png)
+![](/images/r2/app/whatcha/whatcha-v102-jp.png)
 
 グループ日記プラットフォーム「**what-are-you-do-ing**」の最新バージョン **v1.0.2** をリリースしました。今回のアップデートでは、モバイルアプリとしての利便性を大幅に向上させる新機能の追加と、UIのブラッシュアップを行っています。
 

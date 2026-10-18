@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/archi-insight/archi-insight-ai-jp.png)
+![](/images/r2/app/archi-insight/archi-insight-ai-jp.png)
 
 ## 次世代AIアーキテクチャ管理プラットフォーム『ARCHI-insight』
 

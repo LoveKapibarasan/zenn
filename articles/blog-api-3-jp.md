@@ -5,7 +5,7 @@ type: "tech"
 topics: ["api", "自動化", "go", "個人開発"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/blog-api/blog-api-3-jp.png)
+![](/images/r2/app/blog-api/blog-api-3-jp.png)
 
 前回（第2弾）では、Gistの表をNoteに埋め込むための「Iframelyの通行手形」を奪取する話をした。あれから数ヶ月、開発を続けるうちに**突然APIが沈黙した**。
 

@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/archi-insight/archi-insight-2-jp.png)
+![](/images/r2/app/archi-insight/archi-insight-2-jp.png)
 
 みなさん、こんにちは！ ドイツのOTH Regensburg（レーゲンスブルク応用科学大学）で起業・ICTを学んでいる学生です。
 

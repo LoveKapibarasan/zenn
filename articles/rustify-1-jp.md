@@ -5,7 +5,7 @@ type: "tech"
 topics: ["typescript", "rustify", "将棋"]
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/rustify/rustify-1-jp.png)
+![](/images/r2/app/rustify/rustify-1-jp.png)
 
 ## 2026-07-22
 

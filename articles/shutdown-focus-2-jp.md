@@ -5,7 +5,7 @@ type: "tech"
 topics: []
 published: true
 ---
-![](https://assets.lovekapibarasan.org/notes/app/shutdown-focus/shutdown-focus-2-jp.png)
+![](/images/r2/app/shutdown-focus/shutdown-focus-2-jp.png)
 
 ![](https://assets.st-note.com/img/1782032089-sSlHBfcpaO2C05iG8DIJw6Nj.png?width=1200)
 
